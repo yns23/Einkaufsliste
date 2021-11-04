@@ -11,3 +11,5 @@ Hier paar Infos über mich:
 + Lebe momentan in Furtwangen
 
 Die Aufgabe wird mit zwei anderen Kommilitonen durchgeführt werden.
+
+![i`m Groot](./groot.jpg)
